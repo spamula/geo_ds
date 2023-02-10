@@ -1,7 +1,18 @@
 Geospatial Data Science
 ==============================
 
-Geospatial Data Science
+An exploration of geospatial data science analytics techniques utilising key geospatial python tools:
+
+- Google Earth Engine
+- PySal
+- GeoPandas
+- Geocube
+- PySal
+- TorchGeo
+- and more...
+
+as well as standard modelling frameworks such as Scikit-Learn, XGBoost, LightGBM and PyTorch for more advanced use cases.
+
 
 Project Organization
 ------------
