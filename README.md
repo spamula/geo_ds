@@ -1,7 +1,14 @@
 Geospatial Data Science
 ==============================
 
-An exploration of geospatial data science analytics techniques utilising key geospatial python tools:
+An exploration of geospatial data science covering the following topics:
+
+- Geospatial Data 
+- Visualization
+- Exploratory Analysis
+- Advanced Analytics and Modelling
+
+utilising key geospatial python libraries below:
 
 - Google Earth Engine
 - PySal
@@ -11,8 +18,7 @@ An exploration of geospatial data science analytics techniques utilising key geo
 - TorchGeo
 - and more...
 
-as well as standard modelling frameworks such as Scikit-Learn, XGBoost, LightGBM and PyTorch for more advanced use cases.
-
+as well as standard modelling frameworks such as Scikit-Learn, XGBoost, LightGBM and PyTorch.
 
 Project Organization
 ------------

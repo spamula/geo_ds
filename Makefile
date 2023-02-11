@@ -20,6 +20,11 @@ endif
 # COMMANDS                                                                      #
 #################################################################################
 
+## Sample rule
+hello:
+	echo "hello world"
+	echo "This is testing of makefile rules"
+
 ## Install Python Dependencies
 requirements: test_environment
 	$(PYTHON_INTERPRETER) -m pip install -U pip setuptools wheel
@@ -36,7 +41,7 @@ clean:
 
 ## Lint using flake8
 lint:
-	flake8 src
+	black src
 
 ## Upload Data to S3
 sync_data_to_s3:
